@@ -1,4 +1,4 @@
-`white-album.cn`这个域名的内容在这里构建
+# `white-album.cn`这个域名的内容在这里构建
 
 欢迎提出想法
 
